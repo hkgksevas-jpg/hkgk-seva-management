@@ -270,3 +270,4 @@ Built with Next.js, Supabase, and Tailwind CSS for the Hare Krishna community.
 ---
 
 **Hare Krishna!** 🙏
+# Trigger deployment
