@@ -48,6 +48,7 @@ export interface Database {
           description: string | null
           total_slots: number
           booked_slots: number
+          amount_options: number[] | null
           created_by: string | null
           created_at: string
           updated_at: string
@@ -59,6 +60,7 @@ export interface Database {
           description?: string | null
           total_slots: number
           booked_slots?: number
+          amount_options?: number[] | null
           created_by?: string | null
           created_at?: string
           updated_at?: string
@@ -70,6 +72,7 @@ export interface Database {
           description?: string | null
           total_slots?: number
           booked_slots?: number
+          amount_options?: number[] | null
           created_by?: string | null
           created_at?: string
           updated_at?: string
