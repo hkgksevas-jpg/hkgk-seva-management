@@ -151,8 +151,8 @@ export default function SetupAdminPage() {
             <p className="font-semibold mb-2">Instructions:</p>
             <ol className="list-decimal list-inside space-y-1 text-xs">
               <li>Enter the email address of the user you want to make admin</li>
-              <li>Click "Check Profile" to see current role</li>
-              <li>Click "Set as Admin" to change role to admin</li>
+              <li>Click &quot;Check Profile&quot; to see current role</li>
+              <li>Click &quot;Set as Admin&quot; to change role to admin</li>
               <li>Log out and log back in to see admin dashboard</li>
             </ol>
           </div>
