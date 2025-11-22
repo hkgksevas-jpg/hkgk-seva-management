@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(npm run dev:*)",
+      "Bash(npx supabase db reset)",
+      "Bash(npx supabase db push)",
+      "Bash(timeout 5 bash:*)",
+      "Bash(npx supabase:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(findstr:*)",
+      "Bash(rm:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
